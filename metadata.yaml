@@ -1,0 +1,53 @@
+_repo: Remarks-on-the-speeches-of-William-Paul-Clerk-and-John-Hall-of-Otterburn-Esq-b-Executed-at-Ty__70523
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Hall, John
+    deathdate: 1716
+    gutenberg_agent_id: '55784'
+    url: http://www.gutenberg.org/2009/agents/55784
+  - agent_name: Paul, William
+    birthdate: 1678
+    deathdate: 1716
+    gutenberg_agent_id: '55782'
+    url: http://www.gutenberg.org/2009/agents/55782
+creator:
+  author:
+    agent_name: Defoe, Daniel
+    aliases:
+    - Defo, Daniel
+    - John, Gabriel
+    - Moreton, Andrew
+    - Defoë, Daniel
+    deathdate: 1731
+    gutenberg_agent_id: '204'
+    url: http://www.gutenberg.org/2009/agents/204
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Daniel_Defoe
+    - http://www.gutenberg.org/ebooks/author/26500
+description: Sometimes attributed to Daniel Defoe.
+gutenberg_issued: '2023-04-11'
+identifiers:
+  gutenberg: '70523'
+language: en
+pgterms:marc905: 20230112185054listed
+pgterms:marc906: '1716'
+pgterms:marc907: GB
+production_note: Krista Zaleski and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bJ. Baker and T. Warner, $c1716.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jacobite Rebellion, 1715'
+- !lcsh 'Paul, William, 1678-1716 -- Trials, litigation, etc.'
+- !lcsh 'Hall, John, -1716 -- Trials, litigation, etc.'
+- !lcsh 'Trials (Treason) -- Great Britain -- Early works to 1800'
+- !lcsh 'Nonjurors'
+- !lcc 'DA'
+- !lcc 'KD'
+- GITenberg
+title: 'Remarks on the speeches of William Paul Clerk, and John Hall of Otterburn,
+  Esq : $b Executed at Tyburn for rebellion, the 13th of July, 1716'
+url: http://www.gutenberg.org/ebooks/70523
