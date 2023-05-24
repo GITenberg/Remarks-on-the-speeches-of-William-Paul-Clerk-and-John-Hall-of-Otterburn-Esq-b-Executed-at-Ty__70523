@@ -11,6 +11,9 @@ contributor:
     deathdate: 1716
     gutenberg_agent_id: '55782'
     url: http://www.gutenberg.org/2009/agents/55782
+covers:
+- cover_type: archival
+  image_path: 70523-h/images/cover.jpg
 creator:
   author:
     agent_name: Defoe, Daniel
@@ -26,6 +29,8 @@ creator:
     - http://en.wikipedia.org/wiki/Daniel_Defoe
     - http://www.gutenberg.org/ebooks/author/26500
 description: Sometimes attributed to Daniel Defoe.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70523#Remarks-on-the-speeches-of-William-Paul-Clerk-and-John-Hall-of-Otterburn-Esq-b-Executed-at-Ty_
 gutenberg_issued: '2023-04-11'
 identifiers:
   gutenberg: '70523'
